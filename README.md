@@ -19,3 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+
+###需要根据package-lock.json npm按包
+
+##打包执行npm run build
